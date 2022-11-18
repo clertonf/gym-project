@@ -33,10 +33,11 @@ Os usuários devem ser capazes de:
 
 - React Native
 - Expo
-- Firebase
-- Async Storage
 - Image Picker
-- Styled Components
+- File System
+- Native Base
+- React HookForm
+- Yup
 
 ## Como executar o projeto:
 
